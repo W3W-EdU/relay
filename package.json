@@ -34,7 +34,7 @@
     "@babel/plugin-transform-regenerator": "^7.24.7",
     "@babel/plugin-transform-runtime": "^7.24.7",
     "@babel/runtime": "^7.25.0",
-    "@babel/traverse": "^7.25.3",
+    "@babel/traverse": "^7.25.7",
     "@babel/types": "^7.25.2",
     "@jest/create-cache-key-function": "^29.7.0",
     "@testing-library/dom": "^10.4.0",
@@ -81,7 +81,7 @@
     "react-dom": "0.0.0-experimental-bf7e210c-20241017",
     "react-refresh": "^0.14.0",
     "react-test-renderer": "0.0.0-experimental-bf7e210c-20241017",
-    "webpack": "^5.89.0",
+    "webpack": "^5.94.0",
     "webpack-stream": "^7.0.0"
   },
   "resolutions": {
