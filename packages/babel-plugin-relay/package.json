@@ -17,8 +17,8 @@
     "directory": "packages/babel-plugin-relay"
   },
   "dependencies": {
-    "babel-plugin-macros": "^2.0.0",
-    "cosmiconfig": "^5.0.5",
+    "babel-plugin-macros": "^2.6.2",
+    "cosmiconfig": "^6.0.0",
     "graphql": "15.3.0"
   },
   "devDependencies": {
